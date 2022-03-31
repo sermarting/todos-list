@@ -1,5 +1,13 @@
 # todos-list
 
+There is a todo's project.
+You can:
+- Add new todos
+- Complete finished todos
+- Edit todos with other naming
+
+Also this app has filters that helps to show todos actives or completes.
+
 ## Project setup
 ```
 yarn install
